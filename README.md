@@ -76,6 +76,27 @@ The complete project report is available in:
 - Google Forms  
 
 ---
+## Repository Structure
 
+- 📁 `report/`  
+  Contains the final project report in PDF/DOCX format  
+
+- 📁 `task-1-presentation/`  
+  Digital Literacy infographic  
+
+- 📁 `task-2-portfolio/`  
+  Screenshots of professional profiles  
+
+- 📁 `task-3-platforms/`  
+  Proof of coding challenges and collaboration tools  
+
+- 📁 `task-4-email-etiquette/`  
+  Email drafts and social media checklist  
+
+- 📁 `task-5-cybercrime/`  
+  Cybercrime case study and prevention tips
+
+---
+  
 ## Conclusion
 This project helped me improve my digital skills, communication, and awareness about online safety. It also helped me build a professional digital presence.
